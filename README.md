@@ -4,7 +4,7 @@
 ## 1. Introduction
 The aim of this write up is to describe the process of training a convolutional neural network to complete at least one lap of bot tracks provided. I will begin by setting the goals of the project, then I will give a walkthrough of the process, the decisions I made and parameters chosen. I will then describe the results of the process, followed by a discussion about the limitations and possible improvements.
 
-<img src=./images/orig_image.jpg?raw=true width=400px> "Original image"
+![Original image](./images/orig_image.jpg)
 
 ## 2. Goals
 The goals / steps of this project are the following:
